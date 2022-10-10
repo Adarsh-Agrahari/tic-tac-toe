@@ -4,7 +4,9 @@ Build a Tic Tac Toe game using React hooks, functional components, props, state,
 
 React is a Declarative, Component-Based JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 
+### [Live Site](https://62c93060ee66ed39d8c8c263--jolly-monstera-36c302.netlify.app/)
 ![Tic-Tac-Toe](./public/tictactoe_preview.png)
+
 
 # Contribution
 
